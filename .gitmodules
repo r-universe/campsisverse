@@ -5,6 +5,9 @@
 [submodule "campsis"]
 	path = campsis
 	url = https://github.com/campsisverse/campsis
+[submodule "campsismod"]
+	path = campsismod
+	url = https://github.com/campsisverse/campsismod
 [submodule "campsisnca"]
 	path = campsisnca
 	url = https://github.com/campsisverse/campsisnca
